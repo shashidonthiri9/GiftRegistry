@@ -1,0 +1,39 @@
+python manage.py dbshell
+
+
+HOMEBREW
+
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+
+brew install node
+brew install nginx
+
+npm install angular express body-parser ejs mongojs 
+npm install -g nodemon
+
+
+
+
+CORS
+
+sudo pip install django-cors-headers.   ---   https://github.com/crs4/ome_seadragon/wiki/Enable-Django-CORS-(Cross-Origin-Resource-Sharing)-Headers-configuration
+ 
+
+for x in registry_item.__dict__.keys():
+            print x
+            print registry_item[x]
+
+
+
+
+Remove item from registry
+
+#Get users with access
+
+#Give access 
+#remove access
+
+
+Add item frominventory
+remove item from inventory

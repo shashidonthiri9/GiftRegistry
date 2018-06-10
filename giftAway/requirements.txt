@@ -1,0 +1,1 @@
+sudo pip install django-rest-auth --ignore-installed six
